@@ -5,7 +5,7 @@ st.title("Extractive Text Summarizer Using NLP")
 st.write("Developed and Deployed by Farhan Ali Khan")
 st.divider()
 text = st.text_input("Enter the text")
-percentage = st.slider("Percentage",0,100)
+percentage = st.slider("Percentage",1,100)
 if len(text) != 0:
     st.text_area("Text", text)
 btn = st.button("Summarize")
