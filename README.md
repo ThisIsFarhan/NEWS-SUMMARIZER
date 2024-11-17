@@ -47,5 +47,5 @@ The **Streamlit app** (`app.py`) provides an interface for the summarizer. Featu
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ThisIsFarhan/text-summarizer-nlp.git
-   cd text-summarizer-nlp
+   git clone https://github.com/ThisIsFarhan/NEWS-SUMMARIZER.git
+   cd NEWS-SUMMARIZER
